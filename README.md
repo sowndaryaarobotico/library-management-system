@@ -1,3 +1,3 @@
 # Library Management System Project
-This project will handle books, rentals, and members.
 
+This project will handle books, rentals, and members.
